@@ -1,2 +1,3 @@
 # Stories-of-Albums
 1. [Parachutes](./Parachutes/Parachutes.md)
+2. [Mirage](./Mirage/Mirage.md)
