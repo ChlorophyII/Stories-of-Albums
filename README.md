@@ -3,4 +3,4 @@
 2. [Mirage](./Mirage/Mirage.md)
 3. [Tommy](./Tommy/Tommy.md)
 4. [Nevermind](./Nevermind/Nevermind.md)
-5. [The Dark Side of the Moon](./The Dark Side of the Moon/The Dark Side of the Moon.md)
+5. [The Dark Side of the Moon](./The%20Dark%20Side%20of%20the%20Moon/The%20Dark%20Side%20of%20the%20Moon.md)
